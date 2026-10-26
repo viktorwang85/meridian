@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+data/*
+!data/.gitkeep
+footage/*
+!footage/.gitkeep
+render/node_modules/
+render/build/
+render/out/
+render/public/media/
